@@ -1,0 +1,2 @@
+This repository contains the implementation of a client process and a server process through socket communication.
+ The processes interact with each other in order to convert the decimal base to one of the bases available on the server, such as binary, octal or hexadecimal.
